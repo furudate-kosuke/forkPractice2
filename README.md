@@ -1,1 +1,2 @@
-# forkPractice2
+### フォークの練習リポジトリです。
+this is forkPractice
